@@ -13,5 +13,5 @@
     "src/**/*.tsx",
     "styles/globals.css"
   ],
-  "exclude": ["node_modules", ".next", ".turbo"]
+  "exclude": ["node_modules", ".next", ".turbo", "coverage"]
 }
